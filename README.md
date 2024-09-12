@@ -1,3 +1,3 @@
 # hello_world
 first project
-I love ☕:, 🍕:, and 💃:.
+I love ☕:, 🍕:, and 💃:.*2
